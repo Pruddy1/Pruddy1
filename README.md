@@ -23,7 +23,8 @@ I specialize in building resilient web systems, cross-platform mobile applicatio
 
 ---
 
-### 📌 Featured Repositories
+### 📌 Featured Systems & Platforms
 
-- **Relgil Core System**: Flagship multi-vendor marketplace backend featuring custom escrow payment verification, Redis rate-limiting, and Winston/Better Stack telemetry integration.
-- **Portfolio**: Modern portfolio site showcasing interactive security architectural case studies and live telemetry demos built with Next.js and TypeScript.
+- **Relgil Core Platform (Proprietary System)**: Production multi-vendor marketplace featuring custom escrow payment verification, Redis sliding-window rate limiting, and Winston/Better Stack telemetry integration. 
+- **Engineering Portfolio (Live Production)**: Interactive architecture showcase detailing AppSec implementations, SOC telemetry pipelines, and system case studies. 
+  - 🔗 **Live Site:** https://marydada-portfolio.vercel.app
