@@ -25,5 +25,5 @@ I specialize in building resilient web systems, cross-platform mobile applicatio
 
 ### 📌 Featured Repositories
 
-- **[Relgil Core System]**: Flagship multi-vendor marketplace backend featuring custom escrow payment verification, Redis rate-limiting, and Winston/Better Stack telemetry integration.
-- **[Portfolio ]**: Modern portfolio site showcasing interactive security architectural case studies and live telemetry demos built with Next.js and TypeScript.
+- **Relgil Core System**: Flagship multi-vendor marketplace backend featuring custom escrow payment verification, Redis rate-limiting, and Winston/Better Stack telemetry integration.
+- **Portfolio **: Modern portfolio site showcasing interactive security architectural case studies and live telemetry demos built with Next.js and TypeScript.
