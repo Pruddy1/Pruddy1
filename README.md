@@ -5,8 +5,8 @@ I specialize in building resilient web systems, cross-platform mobile applicatio
 
 - 🔭 **Current Focus:** Developing production web applications with Next.js, Node.js, and PostgreSQL.
 - 🛡️ **AppSec & Telemetry:** Integrating Upstash Redis rate-limiting, Winston structured logging, and Better Stack SIEM triage.
-- 🌐 **Portfolio:** (https://marydada-portfolio.vercel.app)
-- 💼 **LinkedIn:** (https://linkedin.com/in/mary-dada-249b17311)
+- 🌐 **Portfolio:** https://marydada-portfolio.vercel.app
+- 💼 **LinkedIn:** https://linkedin.com/in/mary-dada-249b17311
 
 ---
 
